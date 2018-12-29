@@ -1,0 +1,733 @@
+C:\Users\Aluno\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+F:\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+F:\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+F:\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+F:\Trabalho\Trabalho\bin\Debug\Dapper.dll
+F:\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+F:\Trabalho\Trabalho\bin\Debug\Dapper.xml
+F:\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+F:\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+F:\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+F:\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+F:\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CopyComplete
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+F:\Trabalho\Trabalho\obj\Debug\Trabalho.View.rela.resources
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+I:\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+I:\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+I:\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+I:\Trabalho\Trabalho\bin\Debug\Dapper.dll
+I:\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+I:\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+I:\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+I:\Trabalho\Trabalho\bin\Debug\Dapper.xml
+I:\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+I:\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+I:\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CopyComplete
+I:\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+I:\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+I:\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Common.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Design.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.SqlServer.Types.dll
+I:\Trabalho\Trabalho\bin\Debug\EnvDTE.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+I:\Trabalho\Trabalho\bin\Debug\stdole.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+I:\Trabalho\Trabalho\bin\Debug\Microsoft.MSXML.dll
+I:\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroConvenio.resources
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedico.resources
+I:\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroCidade.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.exe.config
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroCidade.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroConvenio.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroExame.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedico.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroPaciente.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Dapper.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\EnvDTE.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\stdole.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\EnvDTE80.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\VSLangProj.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\VSLangProj80.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\VSLangProj2.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Dapper.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CopyComplete
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Dapper.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\EnvDTE.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\stdole.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Threading.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\EnvDTE80.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\VSLangProj.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\VSLangProj80.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Editor.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Newtonsoft.Json.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.MSXML.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Framework.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\VSLangProj2.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Dapper.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Threading.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Editor.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.exe.config
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroCidade.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroConvenio.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroExame.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedico.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedicoHorario.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroPaciente.resources
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.Cache
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+G:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Dapper.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\EnvDTE.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\stdole.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\EnvDTE80.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\VSLangProj.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\VSLangProj80.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Newtonsoft.Json.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.MSXML.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Framework.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\VSLangProj2.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Dapper.xml
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.exe.config
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroCidade.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroConvenio.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroExame.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedico.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedicoHorario.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroPaciente.resources
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CopyComplete
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+F:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Relatorio.FrmVisualizadorDeRelatorio.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Relatorio.FrmVisualizadorDeRelatorio.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroCidade.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroConvenio.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroExame.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedico.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedicoHorario.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroPaciente.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Dapper.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Common.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Design.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.SqlServer.Types.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\EnvDTE.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\stdole.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Threading.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Newtonsoft.Json.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\System.Threading.Tasks.Dataflow.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.MSXML.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Dapper.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Threading.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CopyComplete
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmConsPaciente.resources
+I:\exame de lp\vivian\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroAgendamento.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Dapper.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Google.Protobuf.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\MySql.Data.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\SimpleInjector.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\EnvDTE.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\stdole.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\EnvDTE80.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\VSLangProj.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\VSLangProj80.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\VSLangProj2.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Dapper.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Google.Protobuf.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\MySql.Data.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\SimpleInjector.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.exe.config
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.Main.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Relatorio.FrmVisualizadorDeRelatorio.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroAgendamento.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroCidade.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroConvenio.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroExame.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedico.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroMedicoHorario.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmCadastroPaciente.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmConsConvenio.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmConsPaciente.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CopyComplete
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmConsMedico.resources
+C:\Users\Faculdade\Desktop\Nova pasta\2bm\v3\Trabalho\Trabalho\obj\Debug\Trabalho.View.FrmConsCidade.resources
